@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
+ruby "1.9.3"
 
 gem 'rails', '3.2.9'
 gem 'bcrypt-ruby'
 gem 'will_paginate', '~> 3.0'
 gem 'jquery-rails'
+gem 'rails_12factor'
 
 group :development, :test do
 	gem 'sqlite3'
