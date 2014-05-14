@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.9'
 gem 'bcrypt-ruby'
 gem 'will_paginate', '~> 3.0'
-gem 'pg'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
