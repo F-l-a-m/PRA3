@@ -7,7 +7,7 @@ gem 'will_paginate', '~> 3.0'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group: development, :test do
+group :development, :test do
 	gem 'sqlite3'
 end
 
